@@ -1,9 +1,12 @@
 # key-logger
 Logs key presses on Windows after plugging in a programmable USB.
 
-# TODO:
-- Write proper readme
+To use it: `simply just plug it in.` (WIP)
 
+Currently to use it, we need to connect to powershell and run the command .\script.ps1 which will print out the date and time and prints out hello world.
+
+# TODO:
+- Write proper readme The read me in 
 
 # Things to buy
 - buy:
@@ -13,4 +16,4 @@ Logs key presses on Windows after plugging in a programmable USB.
 
 
 # Checklists:
-- ~~Initialise/create a script file~~
+- ~~Initialise/create a script file~~ (Currently the script file only prints out the date and )
